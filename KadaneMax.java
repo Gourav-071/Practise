@@ -1,4 +1,4 @@
-
+//modifieds
 //Kadane optimised approach for max sub-array
 // Note: He told if negative occurs then take 0 as current sum
 
